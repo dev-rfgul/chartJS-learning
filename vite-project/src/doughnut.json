@@ -1,0 +1,28 @@
+[
+    {
+      "label": "Category A",
+      "data": 25,
+      "backgroundColor": "#FF5733"
+    },
+    {
+      "label": "Category B",
+      "data": 40,
+      "backgroundColor": "#33FF57"
+    },
+    {
+      "label": "Category C",
+      "data": 15,
+      "backgroundColor": "#3357FF"
+    },
+    {
+      "label": "Category D",
+      "data": 10,
+      "backgroundColor": "#F1C40F"
+    },
+    {
+      "label": "Category E",
+      "data": 10,
+      "backgroundColor": "#9B59B6"
+    }
+  ]
+  
